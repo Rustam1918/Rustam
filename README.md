@@ -1,2 +1,0 @@
-# Rustam
-One Drive
